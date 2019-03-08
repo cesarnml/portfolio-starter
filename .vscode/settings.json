@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#442604",
+    "titleBar.activeBackground": "#5F3605",
+    "titleBar.activeForeground": "#FFFBF7"
+  },
+  "prettier.jsxSingleQuote": true
+}
